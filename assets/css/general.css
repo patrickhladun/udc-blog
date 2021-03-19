@@ -189,6 +189,9 @@ img {
     /* grid-column: auto; */
     background: #fff;
 }
+.article-feed-body {
+    padding: 16px;
+}
 .article-feed-meta {
     display: flex;
     justify-content: space-between;
